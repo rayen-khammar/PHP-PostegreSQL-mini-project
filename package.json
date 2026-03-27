@@ -1,0 +1,22 @@
+{
+  "name": "mini_projet_php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ta2005/mini_projet_php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ta2005/mini_projet_php/issues"
+  },
+  "homepage": "https://github.com/ta2005/mini_projet_php#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
