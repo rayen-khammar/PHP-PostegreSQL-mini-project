@@ -14,3 +14,4 @@ if (!isset($_SESSION['user']) || $_SESSION['role'] !== 'admin') {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<?php include 'navbar.php'; ?>

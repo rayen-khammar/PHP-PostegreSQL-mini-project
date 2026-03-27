@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ta2005/mini_projet_php#readme",
   "dependencies": {
     "bootstrap": "^5.3.8"
-  }
+  },
+  "keywords": []
 }

@@ -7,3 +7,6 @@ if (!isset($_SESSION['user']) || $_SESSION['role'] !== 'admin') {
 ?>
 <!DOCTYPE html>
 }
+
+
+<?php include 'navbar.php'; ?>
