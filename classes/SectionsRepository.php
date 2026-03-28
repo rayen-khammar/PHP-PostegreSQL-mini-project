@@ -1,4 +1,4 @@
-php<?php
+<?php
 
 class SectionsRepository extends Repository {
     const tableName = "section";

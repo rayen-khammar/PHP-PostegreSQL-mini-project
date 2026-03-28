@@ -86,8 +86,14 @@ Then open `http://localhost:8000/index.php`
 
 ## 📸 Screenshots
 
-> Coming soon
+### Login
+![Login](screenshots/Login.png)
 
+### Students List
+![Students](screenshots/StudentsList.png)
+
+### Sections List
+![Sections](screenshots/Sections.png)
 ## 📄 License
 
 This project is for educational purposes.
