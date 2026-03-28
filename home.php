@@ -12,6 +12,7 @@ if (!isset($_SESSION['user']) || !isset($_SESSION['role'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<?php include 'navbar.php'; ?>
 
 <body>
     <div class="container" >

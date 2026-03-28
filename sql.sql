@@ -16,7 +16,8 @@ CREATE TABLE IF NOT EXISTS users(
 
 CREATE TABLE IF NOT EXISTS section(
     id SERIAL PRIMARY KEY,
-    des TEXT
+    des TEXT,
+    description TEXT
 );
 
 CREATE TABLE IF NOT EXISTS students(

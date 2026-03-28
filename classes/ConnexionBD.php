@@ -2,7 +2,7 @@
 class ConnexionBD {
     private static $_dbname = "StudentsManagerDB";
     private static $_user = "postgres";
-    private static $_pwd = "root"; //don't forget to change this password
+    private static $_pwd = "root";
     private static $_host = "localhost";
     private static $_port = 5432;
     private static $_bdd = null;
@@ -26,6 +26,10 @@ class ConnexionBD {
         return self::$_bdd;
     }
 }
+
+
+
+
 
 
 
