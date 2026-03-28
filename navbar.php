@@ -1,6 +1,6 @@
 <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">StudentsManager</a>
+        <a class="navbar-brand">StudentsManager</a>
         <ul class="navbar-nav me-auto flex-row">
             <li class="nav-item me-3">
                 <a class="nav-link" href="home.php">Home</a>
