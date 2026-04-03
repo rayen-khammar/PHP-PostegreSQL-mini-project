@@ -76,7 +76,7 @@ if ($role == 'admin') {
                                 <button class="btn btn-sm btn-primary edit-btn" data-id="<?php echo $student->id; ?>"
                                     data-name="<?php echo htmlspecialchars($student->name); ?>"
                                     data-date="<?php echo $student->date_de_naiss; ?>"
-                                    data-section="<?php echo $student->section_id; ?>"" data-bs-toggle="modal"
+                                    data-section="<?php echo $student->section_id; ?>"" data-bs-toggle=" modal"
                                     data-bs-target="#editModal">
                                     <i class="bi bi-pencil"></i>
                                 </button>
